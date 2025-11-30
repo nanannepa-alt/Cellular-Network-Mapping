@@ -25,7 +25,7 @@ Mapping and analyzing cellular signal performance using geotagged data.
   - `/docs`
 
 
-## 📱 Data Collection Tool
+## Data Collection Tool
 - **App**: Network Cell Info Pro (Android)
 - **Metrics Collected**: RSSI, RSRP, RSRQ, SINR, Cell ID, Network Type, GPS
 - **Export Format**: CSV
